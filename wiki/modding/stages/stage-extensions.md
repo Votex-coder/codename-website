@@ -5,6 +5,6 @@ title: Stage Extensions
 ---
 # Stage Extensions
 
-idk should this be in scripting?
+Just use new version for ts, they add stage editor bro
 
 todo: document this
